@@ -7,9 +7,6 @@ Introducing our innovative project, a dynamic and user-friendly website meticulo
 3.	Expert Rating for Hostels: Make informed decisions about accommodation with our expert rating system for hostels. Providing valuable insights and reviews from experienced individuals, this feature empowers students to choose the best living arrangements that suit their preferences and requirements.
 4.	Cab Service: Ensuring safe and reliable transportation, our integrated cab service feature allows students to effortlessly book rides to and from their destinations. With a focus on efficiency and security, this service provides a convenient travel solution with the click of a button.
    
-**Why Choose Our Platform**
-•	User-Friendly Interface: Navigating through our website is a breeze, ensuring an enjoyable and efficient experience for every user.
-•	Responsive Design: Accessible across various devices, our platform adapts to different screen sizes, guaranteeing a consistent and smooth experience.
 
 **How It Works**
 1.	Browse Categories: Explore a range of categories, from late-night delivery options to hostel ratings, seamlessly organized for your convenience.
