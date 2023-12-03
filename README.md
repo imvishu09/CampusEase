@@ -8,9 +8,7 @@ Introducing our innovative project, a dynamic and user-friendly website meticulo
 4.	Cab Service: Ensuring safe and reliable transportation, our integrated cab service feature allows students to effortlessly book rides to and from their destinations. With a focus on efficiency and security, this service provides a convenient travel solution with the click of a button.
    
 **Why Choose Our Platform**
-
 •	User-Friendly Interface: Navigating through our website is a breeze, ensuring an enjoyable and efficient experience for every user.
-
 •	Responsive Design: Accessible across various devices, our platform adapts to different screen sizes, guaranteeing a consistent and smooth experience.
 
 **How It Works**
