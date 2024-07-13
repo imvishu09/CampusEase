@@ -1,6 +1,3 @@
-Here's the updated `README.md` file with the project description:
-
-```markdown
 # CampusEaswe
 
 CampusEaswe is a dynamic and multi-featured student website created using HTML, CSS, and JavaScript. It includes several convenient services such as Late Night Delivery, Stationary at Doorstep, Expert Hostel Ratings, and Cab Service.
